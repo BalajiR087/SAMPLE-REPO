@@ -2,3 +2,12 @@ all roads lead to rome
 
 
 git advanced commands
+
+
+new branch notify
+
+
+3rd new branch
+
+
+this is for branch 2
